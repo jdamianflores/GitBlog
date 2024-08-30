@@ -1,4 +1,12 @@
-.body{
+body{
     text-align: center;
     color: burlywood;
+}
+
+.container{
+    width: 30%;
+    height: 50%;
+}
+h4{
+    color: aqua;
 }
