@@ -1,12 +1,16 @@
-body{
-    text-align: center;
-    color: burlywood;
-}
+/* body{
+    
+  background-color: rgb(239, 241, 243);
+} */
 
-.container{
+/* .container{
     width: 30%;
     height: 50%;
-}
+} */
 h4{
     color: aqua;
+}
+h1{
+    text-align: center;
+    color: black;
 }
